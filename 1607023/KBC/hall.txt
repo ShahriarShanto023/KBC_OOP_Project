@@ -1,0 +1,7 @@
+sas 640000
+sas 0
+sas 0
+mota 0
+mota 0
+Faisal 0
+Faisal 0

@@ -1,0 +1,29 @@
+#ifndef GAME_H
+#define GAME_H
+#include<deque>
+#include<string>
+#include<vector>
+#include<cst
+using namespace std;
+namespace shah{
+class game
+{
+public:
+    int startgame();
+    void read();
+    void show(int rn);
+    void show_life(int);
+    void show_life1(int pos1,int pos2,int rn);
+    void show_life2(int x,int rn);
+    game();
+protected:
+private:
+    long long money[17];
+    bool visited[400];
+    deque<string>ques;
+    vector<string>ans;
+    string option[400][5];
+};
+}
+
+#endif // GAME_H

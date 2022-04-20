@@ -1,0 +1,25 @@
+#ifndef DRIVER_H
+#define DRIVER_H
+#include "game.h"
+#include<utility>
+#in
+namespace shah
+{
+class driver:public game
+{
+public:
+    driver();
+    ~driver();
+    void read_hall();
+    void show_hall();
+    void intro();
+    void write_hall();
+    void sort();
+protected:
+private:
+    vector<pair<string,ll> >v;
+    string s;
+};
+}
+
+#endif // DRIVER_H

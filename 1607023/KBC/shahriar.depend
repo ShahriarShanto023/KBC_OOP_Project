@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1529766178 source:c:\users\nuhash\desktop\shahriar\main.cpp
+	"driver.h"
+
+1529769557 c:\users\nuhash\desktop\shahriar\include\game.h
+	<deque>
+	<string>
+	"Vector.h"
+	<cstring>
+	<iostream>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1529764978 source:c:\users\nuhash\desktop\shahriar\src\game.cpp
+	"game.h"
+
+1529766269 c:\users\nuhash\desktop\shahriar\include\driver.h
+	"game.h"
+	<utility>
+	<fstream>
+	"Vector.h"
+
+1529765822 c:\users\nuhash\desktop\shahriar\include\vector.h
+	<math.h>
+
+1529766339 source:c:\users\nuhash\desktop\shahriar\src\driver.cpp
+	"driver.h"
+	<algorithm>
+
+1529766178 source:c:\users\windows\desktop\new folder\main.cpp
+	"driver.h"
+
+1529766269 c:\users\windows\desktop\new folder\include\driver.h
+	"game.h"
+	<utility>
+	<fstream>
+	"Vector.h"
+
+1529824596 c:\users\windows\desktop\new folder\include\game.h
+	<deque>
+	<string>
+	"Vector.h"
+	<cstring>
+	<iostream>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1529807748 c:\users\windows\desktop\new folder\include\vector.h
+	<math.h>
+
+1529766339 source:c:\users\windows\desktop\new folder\src\driver.cpp
+	"driver.h"
+	<algorithm>
+
+1529822493 source:c:\users\windows\desktop\new folder\src\game.cpp
+	"game.h"
+
+1529766178 source:g:\new folder\main.cpp
+	"driver.h"
+
+1529766269 g:\new folder\include\driver.h
+	"game.h"
+	<utility>
+	<fstream>
+	"Vector.h"
+
+1529824596 g:\new folder\include\game.h
+	<deque>
+	<string>
+	"Vector.h"
+	<cstring>
+	<iostream>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1529807748 g:\new folder\include\vector.h
+	<math.h>
+
+1529766339 source:g:\new folder\src\driver.cpp
+	"driver.h"
+	<algorithm>
+
+1529824802 source:g:\new folder\src\game.cpp
+	"game.h"
+
+1529766180 source:d:\project\group-a1\1607023\kbc\main.cpp
+	"driver.h"
+
+1529766270 d:\project\group-a1\1607023\kbc\include\driver.h
+	"game.h"
+	<utility>
+	<fstream>
+	"Vector.h"
+
+1529824598 d:\project\group-a1\1607023\kbc\include\game.h
+	<deque>
+	<string>
+	"Vector.h"
+	<cstring>
+	<iostream>
+	<windows.h>
+	<time.h>
+	<fstream>
+
+1529807750 d:\project\group-a1\1607023\kbc\include\vector.h
+	<math.h>
+
+1529766340 source:d:\project\group-a1\1607023\kbc\src\driver.cpp
+	"driver.h"
+	<algorithm>
+
+1529824804 source:d:\project\group-a1\1607023\kbc\src\game.cpp
+	"game.h"
+
